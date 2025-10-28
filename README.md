@@ -41,10 +41,14 @@ A modern and responsive **Flutter-based mobile app frontend** for the **NutriFit
 ## 📸 Screenshots
 
 
-```markdown
-![Welcome Screen](assets/screenshots/welcome.jpeg)
-![Login Screen](assets/screenshots/login.jpeg)
-![Home Screen](assets/screenshots/home.jpeg)
-![Food List Screen](assets/screenshots/foodlist.jpeg)
-![Profile Screen](assets/screenshots/profile.jpeg)
-![Recommendation Screen](assets/screenshots/recommendation.jpeg)
+<p align="center">
+  <img src="https://github.com/Dissanayakanadeeka/nutrifit-coach-app-flutter-frontend/blob/main/assets/screenshots/welcome.jpeg?raw=true" width="220" />
+  <img src="https://github.com/Dissanayakanadeeka/nutrifit-coach-app-flutter-frontend/blob/main/assets/screenshots/login.jpeg?raw=true" width="220" />
+  <img src="https://github.com/Dissanayakanadeeka/nutrifit-coach-app-flutter-frontend/blob/main/assets/screenshots/home.jpeg?raw=true" width="220" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Dissanayakanadeeka/nutrifit-coach-app-flutter-frontend/blob/main/assets/screenshots/foodlist.jpeg?raw=true" width="220" />
+  <img src="https://github.com/Dissanayakanadeeka/nutrifit-coach-app-flutter-frontend/blob/main/assets/screenshots/profile.jpeg?raw=true" width="220" />
+  <img src="https://github.com/Dissanayakanadeeka/nutrifit-coach-app-flutter-frontend/blob/main/assets/screenshots/recommendation.jpeg?raw=true" width="220" />
+</p>
